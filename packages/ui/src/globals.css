@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.TriggerStyle {
+    background-color: transparent;
+}
+
+.TriggerStyleFocus {
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+}
+
+.buttonStyle {
+   margin: 10px;
+   align-content: center;
+
+}
